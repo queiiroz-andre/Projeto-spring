@@ -8,3 +8,7 @@ INSERT INTO tb_user(department_id, name, email) VALUES (2, 'Alex', 'alex@gmail.c
 INSERT INTO tb_user(department_id, name, email) VALUES (2, 'Ana', 'ana@gmail.com');
 INSERT INTO tb_user(department_id, name, email) VALUES (3, 'Arthur', 'Arthur@gmail.com');
 INSERT INTO tb_user(department_id, name, email) VALUES (3, 'Queiroz', 'queiroz@gmail.com');
+
+INSERT INTO tb_vendas(id, produto) VALUES ('1','Caderno');
+INSERT INTO tb_vendas(id, produto) VALUES ('2','Teclado');
+
