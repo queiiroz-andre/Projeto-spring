@@ -6,7 +6,7 @@
   - Spring Tool Suite (STS)
   - Postman
 
-### Objetivos da aula
+### Objetivos 
 
 - Resgatar fundamentos de programação
 - Colocar em prática esses fundamentos
@@ -27,7 +27,7 @@ Vamos construir um pequeno sistema (API REST) de usuários e departamentos, com 
 
 ![Image](https://raw.githubusercontent.com/devsuperior/java-web-spring-2022/main/img/objetos.png "Objetos")
 
-### Passos da aula
+### Passo a passo
 
 - Criar o projeto
 - Implementar o modelo de domínio
@@ -35,7 +35,6 @@ Vamos construir um pequeno sistema (API REST) de usuários e departamentos, com 
 - Configurar o banco de dados H2
 - Criar os endpoints da API REST
 
-### Trechos de código para copiar
 
 #### Configuração do Maven Resources Plugin
 
