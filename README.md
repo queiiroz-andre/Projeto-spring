@@ -1,12 +1,3 @@
-# ![DevSuperior logo](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png) Seu primeiro projeto Java Web no Spring Boot 2022
->  Veja como é simples construir uma API REST com banco de dados usando Java e Spring Boot 
-
-## Realização
-[DevSuperior - Escola de programação](https://devsuperior.com.br)
-
-[![DevSuperior no Instagram](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/ig-icon.png)](https://instagram.com/devsuperior.ig)
-[![DevSuperior no Youtube](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/yt-icon.png)](https://youtube.com/devsuperior)
-
 ### Pré-requisitos
 
 - Lógica de programação (qualquer linguagem)
@@ -15,7 +6,7 @@
   - Spring Tool Suite (STS)
   - Postman
 
-### Objetivos da aula
+### Objetivos 
 
 - Resgatar fundamentos de programação
 - Colocar em prática esses fundamentos
@@ -36,7 +27,7 @@ Vamos construir um pequeno sistema (API REST) de usuários e departamentos, com 
 
 ![Image](https://raw.githubusercontent.com/devsuperior/java-web-spring-2022/main/img/objetos.png "Objetos")
 
-### Passos da aula
+### Passo a passo
 
 - Criar o projeto
 - Implementar o modelo de domínio
@@ -44,7 +35,6 @@ Vamos construir um pequeno sistema (API REST) de usuários e departamentos, com 
 - Configurar o banco de dados H2
 - Criar os endpoints da API REST
 
-### Trechos de código para copiar
 
 #### Configuração do Maven Resources Plugin
 
